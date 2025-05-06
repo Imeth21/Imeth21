@@ -1,5 +1,16 @@
-<h1>Hi, I'm Imeth Mendis </h1>
+# 👋 Hey there, I'm Imeth!
 
-<hr>
+I'm a passionate Computer Science Master's student with a strong interest in software and mobile app development, as well as data analysis. I enjoy building practical tech that solves real-world problems.
 
+I specialize in:
+- 📱 Flutter mobile application development  
+- 💻 Software development across web and mobile platforms  
+- 📊 Data analysis and visualization (Python)  
+- 🌐 SEO and web optimization  
+- ⚙️ Full-stack development with a focus on clean, scalable code  
 
+- 🌱 Learning: React.js, Cloud integrations, and AI applications  
+- 💼 Tech Stack: Flutter | Python | JavaScript | Firebase  
+- 📫 Reach out: [your email] | [LinkedIn URL]  
+
+Thanks for visiting my GitHub! 😊
