@@ -10,7 +10,7 @@ I specialize in:
 - ⚙️ Full-stack development with a focus on clean, scalable code  
 
 - 🌱 Learning: React.js, Cloud integrations, and AI applications  
-- 💼 Tech Stack: Flutter | Python | JavaScript | Firebase  
-- 📫 Reach out: [your email] | [LinkedIn URL]  
+- 💼 Tech Stack: Flutter | Python | JavaScript | Firebase   
 
-Thanks for visiting my GitHub! 😊
+Thanks for visiting my GitHub profile!
+
